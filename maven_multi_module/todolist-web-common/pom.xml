@@ -18,7 +18,7 @@
 
     <dependencies>
 
-        <!-- todolist core module-->
+        <!-- todolist core module3-->
         <dependency>
             <groupId>io.github.snyk</groupId>
             <artifactId>todolist-core</artifactId>
