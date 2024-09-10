@@ -6,7 +6,7 @@
     <artifactId>todolist-mvc</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Todolist MVC parent module</name>
-    <description>A vulnerable demo application, initially based on Ben Hassine's TodoMVC.</description>
+    <description>A vulnerable demo 4application, initially based on Ben Hassine's TodoMVC.</description>
     <url>https://github.com/snyk/java-goof</url>
 
     <properties>
